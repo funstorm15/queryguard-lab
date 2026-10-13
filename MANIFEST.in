@@ -1,0 +1,6 @@
+include README.md LICENSE CONTRIBUTING.md SECURITY.md
+recursive-include docs *.md
+recursive-include examples *.html *.json *.txt
+recursive-include tests *.py
+recursive-include .github *.yml
+recursive-include queryguard/static *.html *.css *.js
